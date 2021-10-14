@@ -4,8 +4,11 @@
 ```
 npm install
 ```
-
-### para rodar o projeto
+### para rodar o projeto em desenvolvimento
+```
+npm run dev
+```
+### para rodar o projeto em produção
 ```
 npm run build
 ```
